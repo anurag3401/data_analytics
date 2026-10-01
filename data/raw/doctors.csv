@@ -1,0 +1,2001 @@
+doctor_id,specialty,region,customer_segment
+D00001,Neurology,West,Regular
+D00002,Oncology,Southeast,Regular
+D00003,Dermatology,East,Growth
+D00004,Gastroenterology,Southeast,Regular
+D00005,Diabetology,West,Regular
+D00006,Diabetology,Northeast,Regular
+D00007,Cardiology,Southwest,Low Frequency
+D00008,General Medicine,South,High Value
+D00009,Gastroenterology,Southwest,Regular
+D00010,Dermatology,Southwest,High Value
+D00011,Cardiology,Northeast,Regular
+D00012,Oncology,Southeast,Growth
+D00013,General Medicine,South,Growth
+D00014,Diabetology,North,Growth
+D00015,Diabetology,Central,Regular
+D00016,Diabetology,Northeast,Growth
+D00017,Neurology,West,Regular
+D00018,Pulmonology,North,Growth
+D00019,Pulmonology,Central,High Value
+D00020,Diabetology,West,Regular
+D00021,Gastroenterology,Southwest,Growth
+D00022,Cardiology,East,Growth
+D00023,Diabetology,West,Regular
+D00024,Neurology,South,Growth
+D00025,Pulmonology,South,High Value
+D00026,General Medicine,East,Growth
+D00027,Diabetology,North,Low Frequency
+D00028,Pulmonology,Central,Regular
+D00029,Gastroenterology,West,Regular
+D00030,Cardiology,South,Regular
+D00031,Gastroenterology,North,High Value
+D00032,Diabetology,East,Growth
+D00033,Cardiology,Southeast,Regular
+D00034,Oncology,Northeast,High Value
+D00035,Oncology,Southeast,Growth
+D00036,General Medicine,Southeast,Growth
+D00037,Neurology,South,Growth
+D00038,Cardiology,Southwest,Low Frequency
+D00039,Dermatology,Southwest,High Value
+D00040,Pulmonology,East,Regular
+D00041,Cardiology,West,High Value
+D00042,Pulmonology,Southwest,Low Frequency
+D00043,Cardiology,Southeast,High Value
+D00044,Oncology,Southwest,Growth
+D00045,Diabetology,Southeast,Regular
+D00046,Dermatology,Central,Regular
+D00047,Neurology,South,Growth
+D00048,Pulmonology,South,Growth
+D00049,Gastroenterology,West,Growth
+D00050,Diabetology,Southwest,Growth
+D00051,Oncology,Southwest,Growth
+D00052,General Medicine,Northeast,Regular
+D00053,Oncology,North,Growth
+D00054,General Medicine,Central,Growth
+D00055,Gastroenterology,South,Regular
+D00056,Oncology,Central,Low Frequency
+D00057,Cardiology,South,Regular
+D00058,Diabetology,Central,High Value
+D00059,Cardiology,East,High Value
+D00060,Neurology,Southeast,Low Frequency
+D00061,Neurology,South,Growth
+D00062,Diabetology,Central,High Value
+D00063,General Medicine,Southwest,Regular
+D00064,Neurology,North,Regular
+D00065,Diabetology,East,Regular
+D00066,Gastroenterology,East,Growth
+D00067,Cardiology,North,High Value
+D00068,General Medicine,Central,Low Frequency
+D00069,Cardiology,Southwest,Growth
+D00070,Oncology,West,Regular
+D00071,General Medicine,North,Regular
+D00072,Diabetology,Central,Regular
+D00073,Cardiology,North,Growth
+D00074,General Medicine,North,Growth
+D00075,Dermatology,South,Regular
+D00076,Dermatology,Central,Low Frequency
+D00077,General Medicine,West,Low Frequency
+D00078,Cardiology,Southeast,High Value
+D00079,Neurology,South,High Value
+D00080,Cardiology,North,Low Frequency
+D00081,General Medicine,Southeast,Regular
+D00082,Gastroenterology,Northeast,Low Frequency
+D00083,Neurology,Southeast,Growth
+D00084,Cardiology,North,Regular
+D00085,Neurology,North,Regular
+D00086,Neurology,Southwest,Regular
+D00087,Dermatology,Central,Growth
+D00088,Gastroenterology,Central,High Value
+D00089,General Medicine,South,Regular
+D00090,Pulmonology,West,Growth
+D00091,Cardiology,South,Regular
+D00092,Dermatology,East,Low Frequency
+D00093,General Medicine,North,Growth
+D00094,Gastroenterology,Southeast,Regular
+D00095,General Medicine,Northeast,High Value
+D00096,Pulmonology,North,Regular
+D00097,Pulmonology,North,Low Frequency
+D00098,Pulmonology,South,High Value
+D00099,Cardiology,Northeast,High Value
+D00100,Cardiology,Northeast,Growth
+D00101,Cardiology,Northeast,High Value
+D00102,Gastroenterology,South,Regular
+D00103,Neurology,North,Low Frequency
+D00104,Pulmonology,South,Growth
+D00105,Oncology,Central,Growth
+D00106,Diabetology,Central,Growth
+D00107,Neurology,South,Regular
+D00108,General Medicine,Northeast,High Value
+D00109,Diabetology,Southwest,Regular
+D00110,Cardiology,North,Regular
+D00111,Diabetology,South,Regular
+D00112,Diabetology,South,Growth
+D00113,Oncology,South,Regular
+D00114,General Medicine,Southwest,High Value
+D00115,Gastroenterology,Southwest,High Value
+D00116,General Medicine,East,Low Frequency
+D00117,General Medicine,Central,Regular
+D00118,Diabetology,Southeast,High Value
+D00119,General Medicine,Northeast,Growth
+D00120,Pulmonology,West,Growth
+D00121,General Medicine,Southwest,Growth
+D00122,General Medicine,Southeast,Growth
+D00123,Neurology,Southwest,High Value
+D00124,Cardiology,Northeast,Regular
+D00125,Diabetology,West,Regular
+D00126,Pulmonology,East,Regular
+D00127,General Medicine,South,Regular
+D00128,General Medicine,East,High Value
+D00129,Cardiology,Southwest,Low Frequency
+D00130,Pulmonology,East,Regular
+D00131,Neurology,Southeast,Regular
+D00132,Diabetology,North,Regular
+D00133,Cardiology,Southwest,Low Frequency
+D00134,Neurology,Southwest,Regular
+D00135,Oncology,Southeast,Growth
+D00136,Neurology,Central,Regular
+D00137,Pulmonology,West,Regular
+D00138,Dermatology,South,Regular
+D00139,Neurology,Southeast,Regular
+D00140,Oncology,West,High Value
+D00141,Oncology,Northeast,Growth
+D00142,Diabetology,West,Low Frequency
+D00143,Pulmonology,Northeast,Regular
+D00144,Neurology,Southeast,Regular
+D00145,Diabetology,Southwest,Growth
+D00146,Cardiology,Southwest,Growth
+D00147,Gastroenterology,Central,Low Frequency
+D00148,Pulmonology,Southeast,Regular
+D00149,Cardiology,Northeast,Regular
+D00150,Diabetology,West,Regular
+D00151,Oncology,West,Regular
+D00152,Diabetology,Northeast,Growth
+D00153,Cardiology,East,Regular
+D00154,Pulmonology,Central,Growth
+D00155,Oncology,North,Growth
+D00156,Diabetology,Southwest,Regular
+D00157,Dermatology,South,Low Frequency
+D00158,General Medicine,West,High Value
+D00159,Diabetology,South,Regular
+D00160,Dermatology,North,Growth
+D00161,Neurology,Southeast,Growth
+D00162,Gastroenterology,South,High Value
+D00163,Gastroenterology,North,Growth
+D00164,Pulmonology,Southwest,Regular
+D00165,Cardiology,Northeast,High Value
+D00166,General Medicine,East,Regular
+D00167,Neurology,Southwest,Low Frequency
+D00168,Diabetology,West,High Value
+D00169,Cardiology,North,Regular
+D00170,Gastroenterology,South,Growth
+D00171,Dermatology,West,Regular
+D00172,Cardiology,East,Growth
+D00173,Pulmonology,Northeast,High Value
+D00174,Diabetology,Southeast,High Value
+D00175,Dermatology,West,High Value
+D00176,Diabetology,Southeast,High Value
+D00177,Dermatology,North,Regular
+D00178,Neurology,East,Low Frequency
+D00179,Oncology,South,Regular
+D00180,Cardiology,East,Regular
+D00181,Neurology,East,High Value
+D00182,Cardiology,Central,Growth
+D00183,Oncology,East,Growth
+D00184,General Medicine,East,Growth
+D00185,Diabetology,Southwest,Regular
+D00186,Dermatology,West,Regular
+D00187,General Medicine,South,Growth
+D00188,Gastroenterology,Southwest,Growth
+D00189,Pulmonology,Southwest,Regular
+D00190,Diabetology,West,Regular
+D00191,Cardiology,West,Growth
+D00192,General Medicine,North,Low Frequency
+D00193,Oncology,West,Low Frequency
+D00194,Gastroenterology,Central,Growth
+D00195,Neurology,Central,Growth
+D00196,Neurology,Southwest,Regular
+D00197,Dermatology,Southeast,Low Frequency
+D00198,General Medicine,North,Low Frequency
+D00199,General Medicine,Southeast,High Value
+D00200,General Medicine,Southeast,Growth
+D00201,Dermatology,Southwest,Regular
+D00202,Cardiology,Northeast,Regular
+D00203,Diabetology,Southwest,High Value
+D00204,General Medicine,South,Low Frequency
+D00205,Gastroenterology,South,Regular
+D00206,Cardiology,West,Regular
+D00207,Cardiology,West,Low Frequency
+D00208,Dermatology,Northeast,Regular
+D00209,Cardiology,West,Growth
+D00210,Diabetology,South,Regular
+D00211,Gastroenterology,Southeast,High Value
+D00212,Dermatology,Southwest,Regular
+D00213,Dermatology,East,High Value
+D00214,Diabetology,Central,Regular
+D00215,Dermatology,East,Growth
+D00216,Diabetology,East,High Value
+D00217,Neurology,South,High Value
+D00218,General Medicine,East,High Value
+D00219,Dermatology,Southwest,Regular
+D00220,General Medicine,Northeast,Regular
+D00221,Dermatology,North,Regular
+D00222,Gastroenterology,West,High Value
+D00223,Cardiology,North,High Value
+D00224,Neurology,Southeast,High Value
+D00225,Diabetology,Southwest,High Value
+D00226,Diabetology,Southwest,Low Frequency
+D00227,Oncology,Central,Growth
+D00228,Neurology,Southwest,Growth
+D00229,General Medicine,West,High Value
+D00230,Gastroenterology,Southwest,Growth
+D00231,General Medicine,East,Regular
+D00232,Pulmonology,Central,Regular
+D00233,Gastroenterology,West,Growth
+D00234,Pulmonology,Northeast,High Value
+D00235,Diabetology,Northeast,Growth
+D00236,Dermatology,Northeast,Growth
+D00237,Diabetology,Northeast,Growth
+D00238,Cardiology,East,Low Frequency
+D00239,Dermatology,Southwest,Regular
+D00240,Diabetology,North,Regular
+D00241,Oncology,West,Growth
+D00242,Oncology,East,Growth
+D00243,Oncology,Northeast,Regular
+D00244,Neurology,Southeast,Regular
+D00245,Cardiology,Southwest,Regular
+D00246,Oncology,North,High Value
+D00247,Pulmonology,Southeast,Regular
+D00248,Oncology,Central,Growth
+D00249,Oncology,Southeast,Low Frequency
+D00250,General Medicine,Central,Regular
+D00251,Diabetology,Central,Regular
+D00252,Neurology,Northeast,High Value
+D00253,General Medicine,Central,Regular
+D00254,Neurology,South,High Value
+D00255,Diabetology,West,Growth
+D00256,Gastroenterology,West,High Value
+D00257,Oncology,Northeast,Regular
+D00258,Dermatology,South,Growth
+D00259,Gastroenterology,Southeast,Growth
+D00260,Cardiology,East,Low Frequency
+D00261,Gastroenterology,Southeast,Growth
+D00262,Oncology,Southwest,Regular
+D00263,Cardiology,East,Growth
+D00264,Pulmonology,Central,High Value
+D00265,General Medicine,North,Regular
+D00266,General Medicine,East,High Value
+D00267,Dermatology,North,Regular
+D00268,Dermatology,West,Regular
+D00269,Neurology,North,Regular
+D00270,Diabetology,West,Regular
+D00271,General Medicine,South,Growth
+D00272,General Medicine,South,High Value
+D00273,General Medicine,Northeast,Regular
+D00274,Oncology,Northeast,Regular
+D00275,Pulmonology,Central,Regular
+D00276,Pulmonology,East,Regular
+D00277,General Medicine,Central,Regular
+D00278,Dermatology,West,Regular
+D00279,Dermatology,Central,Growth
+D00280,General Medicine,North,Regular
+D00281,General Medicine,West,Regular
+D00282,Neurology,Northeast,High Value
+D00283,Neurology,South,Low Frequency
+D00284,Cardiology,Northeast,Low Frequency
+D00285,Gastroenterology,East,Regular
+D00286,Cardiology,West,High Value
+D00287,Pulmonology,West,Growth
+D00288,Gastroenterology,North,Regular
+D00289,Diabetology,East,Low Frequency
+D00290,Gastroenterology,South,Growth
+D00291,Cardiology,Southeast,High Value
+D00292,Cardiology,West,Low Frequency
+D00293,General Medicine,West,Growth
+D00294,Neurology,North,Regular
+D00295,Cardiology,Central,Low Frequency
+D00296,Pulmonology,Southwest,High Value
+D00297,General Medicine,South,Regular
+D00298,Diabetology,Northeast,High Value
+D00299,Gastroenterology,East,Growth
+D00300,Cardiology,West,Regular
+D00301,Cardiology,West,Growth
+D00302,Pulmonology,Northeast,Low Frequency
+D00303,Gastroenterology,South,Regular
+D00304,Gastroenterology,Southwest,Growth
+D00305,Dermatology,Central,Growth
+D00306,Oncology,West,Growth
+D00307,Pulmonology,Southwest,Growth
+D00308,Neurology,South,High Value
+D00309,General Medicine,Northeast,Growth
+D00310,Diabetology,North,Regular
+D00311,Pulmonology,Central,Regular
+D00312,Cardiology,East,Regular
+D00313,Cardiology,West,Regular
+D00314,Oncology,South,High Value
+D00315,General Medicine,North,Growth
+D00316,Dermatology,East,Regular
+D00317,Neurology,Southeast,Regular
+D00318,Diabetology,South,High Value
+D00319,Diabetology,South,Regular
+D00320,Diabetology,East,Regular
+D00321,Gastroenterology,North,Regular
+D00322,Dermatology,Southeast,High Value
+D00323,Dermatology,Southwest,Regular
+D00324,Diabetology,Southwest,Regular
+D00325,Oncology,Northeast,Regular
+D00326,Dermatology,North,Regular
+D00327,Gastroenterology,Central,Regular
+D00328,Gastroenterology,West,Regular
+D00329,Neurology,East,High Value
+D00330,Diabetology,Northeast,Regular
+D00331,Neurology,Southeast,Regular
+D00332,General Medicine,East,Regular
+D00333,Cardiology,East,High Value
+D00334,Cardiology,North,High Value
+D00335,Cardiology,West,Low Frequency
+D00336,Cardiology,Central,Regular
+D00337,General Medicine,Southwest,Low Frequency
+D00338,Dermatology,South,Regular
+D00339,Pulmonology,South,Regular
+D00340,Cardiology,East,Regular
+D00341,Pulmonology,Southwest,Low Frequency
+D00342,Pulmonology,Southwest,Regular
+D00343,Diabetology,West,Regular
+D00344,Pulmonology,Southeast,High Value
+D00345,Neurology,Southeast,Regular
+D00346,Gastroenterology,Northeast,Regular
+D00347,Gastroenterology,North,Growth
+D00348,Cardiology,West,Growth
+D00349,Neurology,West,Growth
+D00350,Gastroenterology,North,Growth
+D00351,Pulmonology,Southwest,Growth
+D00352,General Medicine,Southeast,Growth
+D00353,Dermatology,Southeast,Low Frequency
+D00354,Diabetology,Southwest,Regular
+D00355,Cardiology,Southeast,High Value
+D00356,Dermatology,East,High Value
+D00357,Cardiology,West,Regular
+D00358,Gastroenterology,South,Growth
+D00359,Oncology,North,Regular
+D00360,Gastroenterology,Southeast,Regular
+D00361,Neurology,Northeast,Regular
+D00362,Dermatology,Southeast,Growth
+D00363,Pulmonology,Southeast,Regular
+D00364,Gastroenterology,Central,Growth
+D00365,Oncology,East,Low Frequency
+D00366,Neurology,North,Regular
+D00367,Oncology,Central,Growth
+D00368,Oncology,Central,Growth
+D00369,Diabetology,Northeast,High Value
+D00370,Cardiology,West,Regular
+D00371,Cardiology,Northeast,Growth
+D00372,Cardiology,West,Regular
+D00373,Cardiology,West,Growth
+D00374,Dermatology,North,Regular
+D00375,Cardiology,Southeast,Regular
+D00376,Neurology,North,Regular
+D00377,General Medicine,East,Regular
+D00378,Cardiology,West,High Value
+D00379,General Medicine,Central,High Value
+D00380,Diabetology,Southeast,Regular
+D00381,Cardiology,South,Growth
+D00382,Dermatology,East,Growth
+D00383,Gastroenterology,North,High Value
+D00384,General Medicine,Northeast,Growth
+D00385,Dermatology,East,High Value
+D00386,General Medicine,East,Low Frequency
+D00387,Diabetology,Southeast,Growth
+D00388,Diabetology,East,Regular
+D00389,General Medicine,East,High Value
+D00390,General Medicine,South,Regular
+D00391,Oncology,Southwest,Growth
+D00392,Neurology,Northeast,Low Frequency
+D00393,Neurology,Northeast,Low Frequency
+D00394,General Medicine,Northeast,Growth
+D00395,Neurology,West,Low Frequency
+D00396,Oncology,Central,Low Frequency
+D00397,General Medicine,Southwest,Regular
+D00398,Pulmonology,Northeast,Regular
+D00399,General Medicine,East,Growth
+D00400,General Medicine,East,Regular
+D00401,Cardiology,Northeast,High Value
+D00402,Oncology,Southeast,High Value
+D00403,Pulmonology,Northeast,Low Frequency
+D00404,General Medicine,East,Growth
+D00405,Neurology,West,Regular
+D00406,General Medicine,North,Regular
+D00407,Neurology,North,Low Frequency
+D00408,Cardiology,Southwest,Low Frequency
+D00409,Oncology,Southwest,Growth
+D00410,Cardiology,Northeast,High Value
+D00411,Neurology,South,Growth
+D00412,Oncology,Northeast,High Value
+D00413,Oncology,Southeast,High Value
+D00414,Gastroenterology,Northeast,Growth
+D00415,Gastroenterology,Southwest,Regular
+D00416,Pulmonology,North,Regular
+D00417,Diabetology,East,Growth
+D00418,Neurology,Northeast,Regular
+D00419,Dermatology,East,Growth
+D00420,General Medicine,East,High Value
+D00421,General Medicine,South,Regular
+D00422,General Medicine,East,Regular
+D00423,Cardiology,North,Regular
+D00424,Pulmonology,West,High Value
+D00425,Cardiology,West,Regular
+D00426,Gastroenterology,Central,Regular
+D00427,Pulmonology,Southeast,Regular
+D00428,General Medicine,Northeast,Regular
+D00429,Neurology,Southeast,Low Frequency
+D00430,Cardiology,North,Regular
+D00431,Cardiology,East,Regular
+D00432,General Medicine,West,Low Frequency
+D00433,Gastroenterology,Southeast,Regular
+D00434,Cardiology,North,Growth
+D00435,Cardiology,West,Regular
+D00436,Dermatology,East,Growth
+D00437,Cardiology,Southeast,Growth
+D00438,General Medicine,West,Regular
+D00439,Dermatology,Northeast,Low Frequency
+D00440,Cardiology,Southwest,Low Frequency
+D00441,Cardiology,Northeast,Growth
+D00442,Oncology,Central,Regular
+D00443,Neurology,Central,Growth
+D00444,Neurology,West,Low Frequency
+D00445,General Medicine,Southwest,Low Frequency
+D00446,Oncology,North,Regular
+D00447,Oncology,Northeast,Regular
+D00448,General Medicine,North,Regular
+D00449,Neurology,Southwest,Regular
+D00450,Cardiology,North,High Value
+D00451,General Medicine,Southwest,Regular
+D00452,Gastroenterology,West,Regular
+D00453,Pulmonology,North,Regular
+D00454,Oncology,Northeast,Growth
+D00455,Cardiology,East,Low Frequency
+D00456,Pulmonology,Central,High Value
+D00457,Cardiology,East,Regular
+D00458,Pulmonology,North,Regular
+D00459,Cardiology,East,Regular
+D00460,Cardiology,Northeast,Regular
+D00461,Cardiology,Northeast,Growth
+D00462,Dermatology,North,High Value
+D00463,General Medicine,West,Regular
+D00464,Gastroenterology,East,Regular
+D00465,Oncology,West,High Value
+D00466,Neurology,West,Regular
+D00467,Diabetology,Southwest,Regular
+D00468,General Medicine,South,Regular
+D00469,Diabetology,North,Regular
+D00470,Oncology,Central,High Value
+D00471,Cardiology,Northeast,High Value
+D00472,Oncology,Northeast,Regular
+D00473,Cardiology,North,Regular
+D00474,General Medicine,Southwest,Regular
+D00475,Pulmonology,Southeast,Regular
+D00476,Oncology,Southeast,Regular
+D00477,Cardiology,Southeast,Low Frequency
+D00478,Gastroenterology,Southwest,Regular
+D00479,Oncology,Central,Regular
+D00480,Pulmonology,Northeast,Growth
+D00481,Gastroenterology,North,High Value
+D00482,Dermatology,Southwest,Regular
+D00483,Pulmonology,Northeast,Growth
+D00484,Gastroenterology,West,Low Frequency
+D00485,Gastroenterology,East,Regular
+D00486,Oncology,East,Regular
+D00487,Cardiology,Southwest,Growth
+D00488,Diabetology,Northeast,High Value
+D00489,Oncology,South,High Value
+D00490,General Medicine,Central,Growth
+D00491,Pulmonology,Southeast,High Value
+D00492,Gastroenterology,Central,Regular
+D00493,Diabetology,Central,Low Frequency
+D00494,Diabetology,Southwest,Low Frequency
+D00495,Pulmonology,West,Regular
+D00496,Neurology,Central,Growth
+D00497,Gastroenterology,East,Low Frequency
+D00498,Cardiology,West,Low Frequency
+D00499,Oncology,North,High Value
+D00500,Oncology,Central,Regular
+D00501,Dermatology,Central,Growth
+D00502,Pulmonology,North,Regular
+D00503,Neurology,Central,Low Frequency
+D00504,General Medicine,North,High Value
+D00505,Dermatology,West,Low Frequency
+D00506,Diabetology,East,Regular
+D00507,Oncology,North,Low Frequency
+D00508,General Medicine,South,Regular
+D00509,Oncology,Southwest,Regular
+D00510,Dermatology,Southwest,High Value
+D00511,Gastroenterology,North,Growth
+D00512,Neurology,Southwest,High Value
+D00513,Oncology,Central,Low Frequency
+D00514,General Medicine,Southeast,Regular
+D00515,Cardiology,Southeast,Low Frequency
+D00516,Cardiology,Southwest,Low Frequency
+D00517,Neurology,West,High Value
+D00518,General Medicine,Northeast,Growth
+D00519,Oncology,West,High Value
+D00520,Diabetology,Northeast,Growth
+D00521,Gastroenterology,Southeast,Growth
+D00522,Neurology,Southeast,Regular
+D00523,Oncology,North,Growth
+D00524,General Medicine,East,High Value
+D00525,General Medicine,South,High Value
+D00526,Pulmonology,West,High Value
+D00527,Neurology,Central,Low Frequency
+D00528,Diabetology,Northeast,Regular
+D00529,Cardiology,Southwest,Low Frequency
+D00530,General Medicine,Central,Growth
+D00531,General Medicine,East,Growth
+D00532,Oncology,Northeast,Regular
+D00533,Oncology,West,Growth
+D00534,Gastroenterology,North,Growth
+D00535,General Medicine,Central,Growth
+D00536,Oncology,East,High Value
+D00537,General Medicine,West,Growth
+D00538,Diabetology,Southeast,Growth
+D00539,Pulmonology,Southeast,Regular
+D00540,Cardiology,West,High Value
+D00541,Oncology,West,Growth
+D00542,Gastroenterology,West,Regular
+D00543,Diabetology,Northeast,High Value
+D00544,Dermatology,West,Growth
+D00545,Gastroenterology,Central,Low Frequency
+D00546,Neurology,East,High Value
+D00547,Cardiology,Northeast,High Value
+D00548,Dermatology,West,Regular
+D00549,Pulmonology,South,Growth
+D00550,General Medicine,Southwest,Regular
+D00551,Pulmonology,South,Regular
+D00552,General Medicine,East,High Value
+D00553,Gastroenterology,Southeast,Regular
+D00554,Gastroenterology,North,Regular
+D00555,General Medicine,North,High Value
+D00556,Neurology,Southwest,Regular
+D00557,Cardiology,Southeast,Growth
+D00558,Cardiology,Northeast,Regular
+D00559,General Medicine,Northeast,High Value
+D00560,Gastroenterology,Northeast,Regular
+D00561,Dermatology,North,Growth
+D00562,Diabetology,South,Regular
+D00563,Cardiology,North,High Value
+D00564,Cardiology,Central,Growth
+D00565,Neurology,West,Regular
+D00566,Gastroenterology,Northeast,Regular
+D00567,Neurology,South,Regular
+D00568,Pulmonology,East,Regular
+D00569,Oncology,Southwest,Regular
+D00570,Neurology,East,Low Frequency
+D00571,Pulmonology,West,Growth
+D00572,General Medicine,South,Regular
+D00573,Neurology,North,Regular
+D00574,Gastroenterology,North,Low Frequency
+D00575,General Medicine,Central,Low Frequency
+D00576,Oncology,Central,Growth
+D00577,Cardiology,North,High Value
+D00578,Oncology,East,Regular
+D00579,Pulmonology,Southwest,Regular
+D00580,Diabetology,Northeast,Regular
+D00581,Pulmonology,East,Regular
+D00582,Oncology,Southwest,Regular
+D00583,Pulmonology,Central,Growth
+D00584,Neurology,West,Low Frequency
+D00585,Gastroenterology,Southwest,Growth
+D00586,Diabetology,North,Growth
+D00587,Cardiology,Central,Regular
+D00588,Cardiology,Central,Regular
+D00589,Cardiology,Northeast,High Value
+D00590,Diabetology,North,High Value
+D00591,Cardiology,Northeast,Low Frequency
+D00592,Dermatology,North,High Value
+D00593,Diabetology,Northeast,Regular
+D00594,Neurology,Southwest,Regular
+D00595,General Medicine,East,Regular
+D00596,Pulmonology,West,Regular
+D00597,Dermatology,West,Growth
+D00598,Diabetology,North,Regular
+D00599,Diabetology,South,Growth
+D00600,Cardiology,Southeast,Regular
+D00601,Diabetology,Central,High Value
+D00602,Diabetology,Central,Regular
+D00603,Diabetology,North,High Value
+D00604,Cardiology,Southwest,Growth
+D00605,Cardiology,Northeast,Growth
+D00606,Pulmonology,South,High Value
+D00607,Diabetology,East,Regular
+D00608,Neurology,Northeast,Growth
+D00609,Pulmonology,Northeast,Low Frequency
+D00610,Dermatology,North,Low Frequency
+D00611,Cardiology,North,Regular
+D00612,General Medicine,Southwest,High Value
+D00613,Gastroenterology,Central,Growth
+D00614,Cardiology,North,Regular
+D00615,General Medicine,North,Growth
+D00616,Oncology,North,High Value
+D00617,Cardiology,Southwest,Regular
+D00618,Diabetology,Central,Regular
+D00619,General Medicine,East,Regular
+D00620,General Medicine,East,High Value
+D00621,Diabetology,Southeast,Regular
+D00622,Diabetology,Southeast,Growth
+D00623,Neurology,North,Growth
+D00624,Pulmonology,Southeast,Low Frequency
+D00625,Gastroenterology,Central,Growth
+D00626,Neurology,Southwest,Growth
+D00627,Pulmonology,East,High Value
+D00628,General Medicine,Northeast,Low Frequency
+D00629,Cardiology,East,Regular
+D00630,Diabetology,East,Regular
+D00631,Dermatology,Central,Regular
+D00632,General Medicine,Southeast,High Value
+D00633,Pulmonology,Northeast,Regular
+D00634,Pulmonology,Central,Growth
+D00635,Cardiology,North,High Value
+D00636,Pulmonology,Southwest,Regular
+D00637,Pulmonology,West,Low Frequency
+D00638,Diabetology,East,High Value
+D00639,Diabetology,West,Growth
+D00640,Neurology,Southwest,Growth
+D00641,Cardiology,Southwest,Growth
+D00642,Neurology,Central,Low Frequency
+D00643,Diabetology,Central,Regular
+D00644,Neurology,Central,Regular
+D00645,Cardiology,West,Regular
+D00646,General Medicine,Central,High Value
+D00647,Gastroenterology,Southwest,Regular
+D00648,Dermatology,North,Growth
+D00649,General Medicine,Central,Regular
+D00650,Pulmonology,South,Low Frequency
+D00651,Cardiology,Southeast,Regular
+D00652,Pulmonology,West,Growth
+D00653,Gastroenterology,South,Regular
+D00654,General Medicine,Central,High Value
+D00655,Pulmonology,Southwest,High Value
+D00656,Cardiology,North,Growth
+D00657,Diabetology,East,Growth
+D00658,Neurology,Northeast,Regular
+D00659,Dermatology,Southeast,Regular
+D00660,Gastroenterology,Northeast,Low Frequency
+D00661,Neurology,Central,Regular
+D00662,Oncology,Southeast,Regular
+D00663,Gastroenterology,Southeast,High Value
+D00664,Diabetology,North,High Value
+D00665,Cardiology,Southeast,Regular
+D00666,Diabetology,West,Growth
+D00667,Diabetology,South,Regular
+D00668,Diabetology,South,High Value
+D00669,Diabetology,South,High Value
+D00670,Diabetology,West,Growth
+D00671,Diabetology,Northeast,Growth
+D00672,General Medicine,North,High Value
+D00673,Cardiology,Southeast,Regular
+D00674,Pulmonology,West,High Value
+D00675,Neurology,South,Regular
+D00676,Oncology,Central,Growth
+D00677,Cardiology,East,High Value
+D00678,Neurology,Southeast,Growth
+D00679,Oncology,West,Regular
+D00680,General Medicine,Southwest,Growth
+D00681,General Medicine,West,Regular
+D00682,Diabetology,North,High Value
+D00683,Diabetology,North,Regular
+D00684,Dermatology,West,Growth
+D00685,Oncology,South,Regular
+D00686,Gastroenterology,East,Regular
+D00687,Gastroenterology,Southeast,Low Frequency
+D00688,Diabetology,North,Growth
+D00689,General Medicine,Southeast,High Value
+D00690,Diabetology,South,High Value
+D00691,Neurology,Southeast,Regular
+D00692,Pulmonology,Central,Regular
+D00693,Pulmonology,North,Regular
+D00694,Diabetology,South,Growth
+D00695,Cardiology,South,Growth
+D00696,Gastroenterology,East,High Value
+D00697,Diabetology,East,Low Frequency
+D00698,Gastroenterology,Central,Regular
+D00699,Diabetology,South,Low Frequency
+D00700,Pulmonology,Northeast,Growth
+D00701,Pulmonology,South,Regular
+D00702,Cardiology,East,Regular
+D00703,Neurology,Northeast,Growth
+D00704,Cardiology,North,Regular
+D00705,Cardiology,North,Low Frequency
+D00706,Oncology,Southeast,Low Frequency
+D00707,Neurology,West,Regular
+D00708,General Medicine,East,Growth
+D00709,Diabetology,West,Growth
+D00710,Dermatology,Northeast,Low Frequency
+D00711,General Medicine,East,High Value
+D00712,Gastroenterology,Central,Regular
+D00713,Pulmonology,South,Regular
+D00714,Neurology,Central,Regular
+D00715,Neurology,Northeast,Low Frequency
+D00716,Oncology,East,Growth
+D00717,General Medicine,Southwest,Growth
+D00718,Oncology,Northeast,High Value
+D00719,Cardiology,Southwest,Growth
+D00720,Dermatology,South,Growth
+D00721,Oncology,North,Growth
+D00722,Diabetology,North,Regular
+D00723,Cardiology,Northeast,Low Frequency
+D00724,General Medicine,West,High Value
+D00725,Gastroenterology,East,Growth
+D00726,General Medicine,East,Low Frequency
+D00727,Cardiology,North,High Value
+D00728,General Medicine,Southeast,High Value
+D00729,Diabetology,Central,High Value
+D00730,Diabetology,Southeast,Regular
+D00731,Diabetology,South,High Value
+D00732,General Medicine,Central,Low Frequency
+D00733,Dermatology,Central,Growth
+D00734,Pulmonology,Northeast,Regular
+D00735,Neurology,North,Growth
+D00736,General Medicine,Southeast,Regular
+D00737,Neurology,Southeast,Regular
+D00738,General Medicine,North,Regular
+D00739,Pulmonology,Southeast,Regular
+D00740,Neurology,Southwest,Regular
+D00741,Pulmonology,North,Low Frequency
+D00742,Neurology,Northeast,Regular
+D00743,General Medicine,West,Regular
+D00744,Pulmonology,Central,High Value
+D00745,Diabetology,Northeast,High Value
+D00746,General Medicine,East,Growth
+D00747,Neurology,South,Regular
+D00748,Gastroenterology,West,Growth
+D00749,Oncology,East,Growth
+D00750,Gastroenterology,Central,Low Frequency
+D00751,Cardiology,Southeast,Low Frequency
+D00752,Oncology,North,Low Frequency
+D00753,Gastroenterology,Central,Growth
+D00754,Neurology,Northeast,Regular
+D00755,Cardiology,South,Growth
+D00756,General Medicine,Northeast,High Value
+D00757,Gastroenterology,West,High Value
+D00758,Pulmonology,West,Growth
+D00759,General Medicine,South,Growth
+D00760,General Medicine,Southwest,Regular
+D00761,Diabetology,East,High Value
+D00762,Neurology,East,Regular
+D00763,Diabetology,West,Regular
+D00764,General Medicine,West,Growth
+D00765,Cardiology,Southeast,Regular
+D00766,Gastroenterology,North,Growth
+D00767,General Medicine,Southeast,Regular
+D00768,General Medicine,Southeast,Growth
+D00769,Neurology,Southwest,High Value
+D00770,General Medicine,East,High Value
+D00771,Cardiology,Southwest,Regular
+D00772,General Medicine,Southwest,Low Frequency
+D00773,Cardiology,South,Growth
+D00774,Neurology,East,Regular
+D00775,General Medicine,North,Regular
+D00776,Cardiology,Northeast,Low Frequency
+D00777,Diabetology,West,Regular
+D00778,Dermatology,West,Regular
+D00779,Dermatology,North,Regular
+D00780,Dermatology,Southwest,Low Frequency
+D00781,Dermatology,Southeast,Growth
+D00782,Gastroenterology,South,Growth
+D00783,Diabetology,Southwest,High Value
+D00784,Neurology,West,Regular
+D00785,Diabetology,Central,Regular
+D00786,Oncology,Southeast,High Value
+D00787,Gastroenterology,West,Regular
+D00788,Neurology,Central,Regular
+D00789,Pulmonology,Southwest,High Value
+D00790,Oncology,North,Low Frequency
+D00791,Diabetology,North,Growth
+D00792,Gastroenterology,Southeast,High Value
+D00793,Pulmonology,West,Regular
+D00794,Gastroenterology,East,Regular
+D00795,Cardiology,Central,High Value
+D00796,General Medicine,South,Regular
+D00797,Oncology,West,Regular
+D00798,Gastroenterology,South,High Value
+D00799,Dermatology,West,High Value
+D00800,Oncology,East,Regular
+D00801,Dermatology,East,Growth
+D00802,Diabetology,Southeast,Low Frequency
+D00803,Gastroenterology,Southeast,Regular
+D00804,Gastroenterology,East,Low Frequency
+D00805,Pulmonology,Northeast,Growth
+D00806,Dermatology,East,Low Frequency
+D00807,Oncology,North,Growth
+D00808,Oncology,North,Growth
+D00809,Pulmonology,Northeast,High Value
+D00810,Cardiology,Southwest,High Value
+D00811,Oncology,Central,Regular
+D00812,General Medicine,Southwest,Regular
+D00813,Cardiology,South,Growth
+D00814,Oncology,Southwest,Regular
+D00815,General Medicine,West,Growth
+D00816,Pulmonology,Southwest,Regular
+D00817,Gastroenterology,West,Growth
+D00818,Neurology,Northeast,Regular
+D00819,Cardiology,North,Regular
+D00820,Neurology,Southeast,Regular
+D00821,General Medicine,West,Growth
+D00822,Cardiology,North,Growth
+D00823,Neurology,Central,Regular
+D00824,Neurology,South,Growth
+D00825,Pulmonology,Central,Growth
+D00826,Oncology,Northeast,High Value
+D00827,Neurology,Southwest,Regular
+D00828,Neurology,Southwest,Regular
+D00829,Dermatology,East,Regular
+D00830,Pulmonology,East,Growth
+D00831,Diabetology,East,Growth
+D00832,Pulmonology,Central,Regular
+D00833,Cardiology,West,Regular
+D00834,Diabetology,South,Growth
+D00835,Pulmonology,East,Regular
+D00836,Neurology,Northeast,Growth
+D00837,Oncology,Northeast,Low Frequency
+D00838,Neurology,East,High Value
+D00839,Gastroenterology,Southwest,Low Frequency
+D00840,Gastroenterology,East,Regular
+D00841,Cardiology,South,Regular
+D00842,Dermatology,East,High Value
+D00843,Diabetology,South,Regular
+D00844,Oncology,Northeast,Growth
+D00845,Cardiology,East,High Value
+D00846,Neurology,Central,Regular
+D00847,Cardiology,Southeast,Low Frequency
+D00848,Oncology,Central,Regular
+D00849,Pulmonology,Northeast,Regular
+D00850,Gastroenterology,South,High Value
+D00851,Cardiology,Central,Growth
+D00852,General Medicine,South,High Value
+D00853,Diabetology,Central,Regular
+D00854,General Medicine,Central,Low Frequency
+D00855,Diabetology,South,Regular
+D00856,Diabetology,West,High Value
+D00857,Cardiology,Central,Growth
+D00858,Pulmonology,East,Regular
+D00859,Gastroenterology,Southeast,Growth
+D00860,Cardiology,Northeast,Regular
+D00861,General Medicine,West,Regular
+D00862,Pulmonology,South,Regular
+D00863,Pulmonology,West,Growth
+D00864,Pulmonology,North,Growth
+D00865,Neurology,North,High Value
+D00866,Gastroenterology,Central,Growth
+D00867,Diabetology,Central,Growth
+D00868,Diabetology,East,Regular
+D00869,General Medicine,Southeast,Regular
+D00870,Oncology,Northeast,High Value
+D00871,Neurology,West,Growth
+D00872,Diabetology,North,High Value
+D00873,Dermatology,Central,High Value
+D00874,Neurology,Southwest,Regular
+D00875,Cardiology,Southwest,High Value
+D00876,Diabetology,Northeast,Growth
+D00877,Dermatology,West,High Value
+D00878,Dermatology,Central,Low Frequency
+D00879,Cardiology,Central,Regular
+D00880,Diabetology,North,Growth
+D00881,Diabetology,North,Regular
+D00882,Dermatology,Central,Regular
+D00883,Cardiology,South,Low Frequency
+D00884,Cardiology,Central,Growth
+D00885,General Medicine,Northeast,Low Frequency
+D00886,Diabetology,Central,Low Frequency
+D00887,Dermatology,East,Low Frequency
+D00888,Diabetology,Southeast,Regular
+D00889,Cardiology,East,Regular
+D00890,Diabetology,East,Growth
+D00891,Dermatology,South,Regular
+D00892,General Medicine,South,Regular
+D00893,General Medicine,Southwest,Regular
+D00894,Neurology,Central,Growth
+D00895,Dermatology,East,Regular
+D00896,Diabetology,South,Regular
+D00897,Diabetology,North,High Value
+D00898,General Medicine,Central,Regular
+D00899,Cardiology,Northeast,Regular
+D00900,Cardiology,Southeast,Regular
+D00901,Diabetology,West,Growth
+D00902,Cardiology,Central,Growth
+D00903,Diabetology,West,Low Frequency
+D00904,Gastroenterology,East,Growth
+D00905,Pulmonology,Southeast,Regular
+D00906,General Medicine,West,Regular
+D00907,General Medicine,East,Regular
+D00908,Neurology,North,Growth
+D00909,Diabetology,West,Regular
+D00910,Neurology,Southeast,Growth
+D00911,Gastroenterology,Southwest,High Value
+D00912,Diabetology,Central,Growth
+D00913,Gastroenterology,East,High Value
+D00914,Neurology,Central,Low Frequency
+D00915,Gastroenterology,Southeast,Low Frequency
+D00916,Pulmonology,South,Growth
+D00917,Diabetology,East,Regular
+D00918,Oncology,West,Growth
+D00919,General Medicine,East,Regular
+D00920,Cardiology,Central,Regular
+D00921,General Medicine,North,Low Frequency
+D00922,Pulmonology,East,Growth
+D00923,General Medicine,West,Regular
+D00924,General Medicine,South,Growth
+D00925,Pulmonology,Southwest,Low Frequency
+D00926,Cardiology,Northeast,High Value
+D00927,Diabetology,North,Regular
+D00928,Gastroenterology,Southwest,Regular
+D00929,Gastroenterology,South,Regular
+D00930,Diabetology,East,High Value
+D00931,Cardiology,Central,Low Frequency
+D00932,General Medicine,Southeast,High Value
+D00933,Oncology,Central,Regular
+D00934,Pulmonology,Southwest,Growth
+D00935,Diabetology,West,Growth
+D00936,Diabetology,Central,Regular
+D00937,Cardiology,North,Growth
+D00938,Oncology,Central,High Value
+D00939,Cardiology,West,High Value
+D00940,Gastroenterology,Northeast,Growth
+D00941,Diabetology,East,Regular
+D00942,Gastroenterology,Southeast,Low Frequency
+D00943,Dermatology,Southwest,High Value
+D00944,General Medicine,East,Growth
+D00945,Diabetology,Central,High Value
+D00946,Cardiology,South,High Value
+D00947,Cardiology,East,Regular
+D00948,Oncology,Northeast,Regular
+D00949,General Medicine,Central,High Value
+D00950,Gastroenterology,Southeast,Growth
+D00951,Gastroenterology,West,High Value
+D00952,Dermatology,Northeast,Regular
+D00953,Diabetology,Central,Low Frequency
+D00954,Oncology,Northeast,High Value
+D00955,Neurology,East,Growth
+D00956,Neurology,Southeast,Low Frequency
+D00957,Pulmonology,West,Low Frequency
+D00958,Cardiology,Central,Growth
+D00959,Diabetology,North,High Value
+D00960,Dermatology,Southwest,High Value
+D00961,Cardiology,West,Regular
+D00962,Gastroenterology,North,Growth
+D00963,Diabetology,Northeast,High Value
+D00964,Neurology,South,Regular
+D00965,Diabetology,West,High Value
+D00966,Neurology,Northeast,Regular
+D00967,Dermatology,North,Growth
+D00968,Diabetology,East,High Value
+D00969,Gastroenterology,East,Regular
+D00970,Pulmonology,South,Growth
+D00971,Dermatology,Southwest,Low Frequency
+D00972,Oncology,West,Regular
+D00973,Dermatology,West,Growth
+D00974,Diabetology,West,Regular
+D00975,Cardiology,Southwest,Growth
+D00976,Diabetology,Northeast,Low Frequency
+D00977,Gastroenterology,Southeast,Growth
+D00978,Cardiology,Southeast,Regular
+D00979,Pulmonology,South,High Value
+D00980,Gastroenterology,West,Growth
+D00981,Neurology,Northeast,Regular
+D00982,General Medicine,East,Regular
+D00983,Cardiology,North,Growth
+D00984,Cardiology,Northeast,Growth
+D00985,Dermatology,Southwest,Regular
+D00986,Pulmonology,Southeast,Low Frequency
+D00987,Dermatology,Southeast,High Value
+D00988,Pulmonology,East,Regular
+D00989,Diabetology,East,Growth
+D00990,General Medicine,Southwest,Low Frequency
+D00991,General Medicine,North,High Value
+D00992,Dermatology,East,Growth
+D00993,Diabetology,South,Regular
+D00994,Gastroenterology,North,High Value
+D00995,Neurology,East,Regular
+D00996,Cardiology,Central,Growth
+D00997,Oncology,Northeast,Growth
+D00998,Cardiology,East,Growth
+D00999,Oncology,South,Regular
+D01000,Pulmonology,West,High Value
+D01001,Diabetology,East,Regular
+D01002,Gastroenterology,Southeast,Regular
+D01003,General Medicine,Southeast,Regular
+D01004,Dermatology,Southeast,High Value
+D01005,General Medicine,West,High Value
+D01006,Dermatology,Southeast,Growth
+D01007,Dermatology,Central,Growth
+D01008,General Medicine,East,Growth
+D01009,Diabetology,Southwest,Regular
+D01010,Pulmonology,Southeast,High Value
+D01011,Diabetology,North,High Value
+D01012,Oncology,Southwest,Growth
+D01013,Oncology,West,Regular
+D01014,Cardiology,Central,High Value
+D01015,Dermatology,North,Regular
+D01016,Oncology,North,Growth
+D01017,Diabetology,North,Low Frequency
+D01018,Gastroenterology,North,Low Frequency
+D01019,Oncology,Southwest,Growth
+D01020,Cardiology,Southwest,Growth
+D01021,Dermatology,East,Growth
+D01022,Diabetology,Southeast,Growth
+D01023,Oncology,Northeast,Regular
+D01024,Oncology,East,Regular
+D01025,Oncology,East,Regular
+D01026,Pulmonology,Central,Regular
+D01027,General Medicine,Central,Growth
+D01028,General Medicine,Southeast,High Value
+D01029,Neurology,Northeast,Regular
+D01030,General Medicine,Central,Growth
+D01031,Cardiology,Southeast,Regular
+D01032,Gastroenterology,Southeast,Growth
+D01033,Diabetology,Southwest,High Value
+D01034,Cardiology,South,Low Frequency
+D01035,Cardiology,Southwest,High Value
+D01036,Dermatology,Northeast,Low Frequency
+D01037,Neurology,Central,Low Frequency
+D01038,Dermatology,Northeast,Regular
+D01039,Cardiology,East,Regular
+D01040,Neurology,East,Regular
+D01041,Pulmonology,Northeast,Low Frequency
+D01042,General Medicine,South,Growth
+D01043,Neurology,South,Regular
+D01044,Gastroenterology,Southwest,Regular
+D01045,General Medicine,Northeast,Growth
+D01046,Gastroenterology,Central,Growth
+D01047,Diabetology,Southwest,Growth
+D01048,Cardiology,West,Regular
+D01049,General Medicine,South,Low Frequency
+D01050,Cardiology,North,Growth
+D01051,General Medicine,Southwest,Low Frequency
+D01052,Pulmonology,East,Regular
+D01053,Oncology,Southwest,Regular
+D01054,General Medicine,Northeast,Regular
+D01055,Oncology,North,Regular
+D01056,Neurology,Northeast,High Value
+D01057,General Medicine,Southeast,Regular
+D01058,Neurology,East,High Value
+D01059,Pulmonology,East,Low Frequency
+D01060,Gastroenterology,South,Low Frequency
+D01061,General Medicine,Southwest,Growth
+D01062,Oncology,South,Growth
+D01063,General Medicine,North,Regular
+D01064,Neurology,Southwest,Growth
+D01065,Pulmonology,Southeast,Low Frequency
+D01066,Dermatology,Northeast,High Value
+D01067,Diabetology,Southeast,High Value
+D01068,Cardiology,East,Low Frequency
+D01069,Neurology,North,Regular
+D01070,Diabetology,West,Regular
+D01071,Diabetology,North,Growth
+D01072,Diabetology,Central,Regular
+D01073,Cardiology,North,Regular
+D01074,Cardiology,Southeast,Regular
+D01075,Oncology,Central,Regular
+D01076,Pulmonology,Central,Regular
+D01077,Neurology,Southwest,Growth
+D01078,Dermatology,Southwest,Growth
+D01079,Diabetology,Central,Regular
+D01080,Oncology,West,Growth
+D01081,General Medicine,Southwest,Regular
+D01082,Cardiology,North,Growth
+D01083,Neurology,Southeast,Regular
+D01084,General Medicine,North,Regular
+D01085,Oncology,West,Growth
+D01086,Pulmonology,East,High Value
+D01087,Gastroenterology,South,High Value
+D01088,Diabetology,Southeast,Regular
+D01089,Oncology,Southwest,Regular
+D01090,Diabetology,Southeast,High Value
+D01091,Oncology,North,Regular
+D01092,Dermatology,South,Growth
+D01093,Gastroenterology,Northeast,Regular
+D01094,Pulmonology,Northeast,Low Frequency
+D01095,Diabetology,Southwest,Growth
+D01096,Diabetology,West,Regular
+D01097,Diabetology,Northeast,High Value
+D01098,Diabetology,Southeast,High Value
+D01099,General Medicine,Northeast,Growth
+D01100,Neurology,East,High Value
+D01101,Cardiology,East,Regular
+D01102,Oncology,Southwest,Growth
+D01103,General Medicine,East,Regular
+D01104,Oncology,Northeast,High Value
+D01105,Oncology,West,Growth
+D01106,Diabetology,Central,Regular
+D01107,Neurology,Central,Low Frequency
+D01108,General Medicine,Southwest,High Value
+D01109,Dermatology,South,Low Frequency
+D01110,Diabetology,Central,Regular
+D01111,General Medicine,Central,Regular
+D01112,Diabetology,East,Regular
+D01113,Diabetology,East,High Value
+D01114,Pulmonology,Northeast,High Value
+D01115,Gastroenterology,Southwest,Regular
+D01116,Gastroenterology,South,Growth
+D01117,Cardiology,Southwest,Low Frequency
+D01118,General Medicine,North,Growth
+D01119,Diabetology,Southeast,High Value
+D01120,Cardiology,South,Regular
+D01121,General Medicine,South,Growth
+D01122,Oncology,West,Regular
+D01123,General Medicine,Southwest,Regular
+D01124,General Medicine,Northeast,Low Frequency
+D01125,Dermatology,West,Regular
+D01126,Gastroenterology,South,Regular
+D01127,Cardiology,South,Regular
+D01128,Neurology,South,Low Frequency
+D01129,Neurology,Central,Growth
+D01130,Diabetology,Southwest,High Value
+D01131,Dermatology,Southeast,Growth
+D01132,Pulmonology,Southeast,Growth
+D01133,Cardiology,West,Regular
+D01134,Diabetology,South,Regular
+D01135,Dermatology,Southeast,Regular
+D01136,Cardiology,East,High Value
+D01137,General Medicine,Southwest,Regular
+D01138,Pulmonology,Southeast,Growth
+D01139,Pulmonology,Northeast,Regular
+D01140,Gastroenterology,Southwest,Regular
+D01141,General Medicine,Northeast,Growth
+D01142,Neurology,Southeast,High Value
+D01143,Dermatology,East,High Value
+D01144,Gastroenterology,Northeast,Regular
+D01145,Diabetology,Central,Low Frequency
+D01146,General Medicine,Southeast,Regular
+D01147,General Medicine,Central,High Value
+D01148,Dermatology,Southeast,Growth
+D01149,General Medicine,North,Regular
+D01150,General Medicine,North,Regular
+D01151,Dermatology,North,High Value
+D01152,General Medicine,Northeast,High Value
+D01153,Dermatology,Central,Regular
+D01154,Dermatology,Central,Growth
+D01155,Gastroenterology,Central,Growth
+D01156,General Medicine,East,High Value
+D01157,Diabetology,Central,Regular
+D01158,General Medicine,East,Low Frequency
+D01159,General Medicine,North,Low Frequency
+D01160,Cardiology,North,Regular
+D01161,General Medicine,Northeast,Regular
+D01162,Cardiology,Southeast,High Value
+D01163,Neurology,North,Regular
+D01164,General Medicine,Southeast,Growth
+D01165,Diabetology,Southeast,Regular
+D01166,General Medicine,Southwest,Growth
+D01167,General Medicine,Northeast,Growth
+D01168,Pulmonology,South,High Value
+D01169,Cardiology,South,Growth
+D01170,Diabetology,West,High Value
+D01171,Gastroenterology,Southwest,High Value
+D01172,Oncology,Northeast,Low Frequency
+D01173,Gastroenterology,West,Growth
+D01174,Diabetology,West,Regular
+D01175,Gastroenterology,Southwest,Low Frequency
+D01176,Pulmonology,South,Low Frequency
+D01177,General Medicine,Northeast,Regular
+D01178,Cardiology,South,Regular
+D01179,General Medicine,West,Growth
+D01180,Gastroenterology,Northeast,Growth
+D01181,Oncology,West,Growth
+D01182,Neurology,Central,Regular
+D01183,Gastroenterology,Southwest,Regular
+D01184,Oncology,Southeast,Growth
+D01185,Cardiology,Northeast,High Value
+D01186,Oncology,Northeast,Regular
+D01187,Dermatology,Southeast,High Value
+D01188,Cardiology,West,Regular
+D01189,Neurology,Central,Regular
+D01190,Dermatology,East,Regular
+D01191,Cardiology,Southeast,Regular
+D01192,Gastroenterology,Southwest,Low Frequency
+D01193,Neurology,South,Regular
+D01194,Gastroenterology,West,Regular
+D01195,Cardiology,Southeast,Regular
+D01196,General Medicine,Southeast,High Value
+D01197,Oncology,Northeast,High Value
+D01198,Oncology,South,Growth
+D01199,General Medicine,South,Growth
+D01200,Cardiology,Southwest,Regular
+D01201,General Medicine,South,Regular
+D01202,Cardiology,Southeast,High Value
+D01203,Cardiology,East,High Value
+D01204,Neurology,North,Low Frequency
+D01205,Pulmonology,West,High Value
+D01206,General Medicine,North,Regular
+D01207,Dermatology,Southeast,Regular
+D01208,Pulmonology,North,Regular
+D01209,Diabetology,Southeast,High Value
+D01210,Oncology,North,High Value
+D01211,Pulmonology,South,High Value
+D01212,Pulmonology,Central,Regular
+D01213,Diabetology,South,Regular
+D01214,General Medicine,South,Growth
+D01215,Dermatology,Southwest,Regular
+D01216,Diabetology,Northeast,Regular
+D01217,Cardiology,Northeast,High Value
+D01218,Dermatology,North,Regular
+D01219,Dermatology,Southeast,Regular
+D01220,Diabetology,Southwest,Growth
+D01221,Oncology,South,Growth
+D01222,Diabetology,Southwest,Regular
+D01223,Pulmonology,North,Low Frequency
+D01224,Oncology,Northeast,Regular
+D01225,Neurology,Central,Regular
+D01226,Gastroenterology,West,Regular
+D01227,Neurology,North,Growth
+D01228,Diabetology,Southwest,Regular
+D01229,Oncology,Central,Regular
+D01230,Neurology,West,High Value
+D01231,General Medicine,East,Regular
+D01232,Diabetology,North,Regular
+D01233,Diabetology,North,Growth
+D01234,Cardiology,East,Low Frequency
+D01235,Dermatology,East,High Value
+D01236,Neurology,North,Growth
+D01237,General Medicine,East,High Value
+D01238,Pulmonology,South,Regular
+D01239,Oncology,West,Regular
+D01240,Diabetology,West,Growth
+D01241,General Medicine,West,Regular
+D01242,General Medicine,South,Growth
+D01243,General Medicine,Southeast,Regular
+D01244,General Medicine,East,Regular
+D01245,General Medicine,Central,Growth
+D01246,Gastroenterology,East,Low Frequency
+D01247,Cardiology,North,Growth
+D01248,Cardiology,Northeast,High Value
+D01249,Oncology,Southwest,Regular
+D01250,Gastroenterology,Southwest,Low Frequency
+D01251,General Medicine,West,Growth
+D01252,Pulmonology,East,High Value
+D01253,Cardiology,Central,Growth
+D01254,Cardiology,North,Regular
+D01255,Dermatology,South,High Value
+D01256,Pulmonology,Southeast,Regular
+D01257,Diabetology,South,Low Frequency
+D01258,Pulmonology,Central,Regular
+D01259,Cardiology,North,Growth
+D01260,Gastroenterology,West,Growth
+D01261,Diabetology,East,High Value
+D01262,General Medicine,North,Low Frequency
+D01263,Neurology,Southwest,Growth
+D01264,Pulmonology,Southeast,Growth
+D01265,Cardiology,South,Regular
+D01266,Cardiology,Southeast,Growth
+D01267,Neurology,Southeast,Regular
+D01268,Pulmonology,Central,High Value
+D01269,Gastroenterology,Central,Regular
+D01270,Diabetology,East,Low Frequency
+D01271,Dermatology,Central,Regular
+D01272,General Medicine,Central,Low Frequency
+D01273,General Medicine,North,High Value
+D01274,Cardiology,Southwest,Regular
+D01275,Pulmonology,West,Regular
+D01276,Cardiology,East,Regular
+D01277,Diabetology,North,Growth
+D01278,Oncology,West,Growth
+D01279,Cardiology,Southeast,High Value
+D01280,Pulmonology,North,Growth
+D01281,Gastroenterology,Northeast,High Value
+D01282,Dermatology,North,Regular
+D01283,Gastroenterology,Central,Growth
+D01284,Cardiology,West,High Value
+D01285,Neurology,East,Regular
+D01286,Pulmonology,East,Regular
+D01287,Cardiology,West,Low Frequency
+D01288,Neurology,Central,Regular
+D01289,Cardiology,South,Growth
+D01290,Cardiology,North,Regular
+D01291,Neurology,Central,Regular
+D01292,Cardiology,Northeast,High Value
+D01293,Gastroenterology,Southwest,Regular
+D01294,Dermatology,Southeast,Low Frequency
+D01295,General Medicine,West,Growth
+D01296,Diabetology,Southwest,Growth
+D01297,Diabetology,North,High Value
+D01298,Cardiology,East,High Value
+D01299,Gastroenterology,Southeast,Growth
+D01300,Dermatology,Southwest,Regular
+D01301,Cardiology,South,High Value
+D01302,Oncology,Southwest,Low Frequency
+D01303,Cardiology,Northeast,Regular
+D01304,Gastroenterology,East,Regular
+D01305,Dermatology,West,Regular
+D01306,General Medicine,North,High Value
+D01307,Dermatology,West,Regular
+D01308,General Medicine,Southeast,Regular
+D01309,Neurology,North,Regular
+D01310,General Medicine,Central,Regular
+D01311,Cardiology,South,Growth
+D01312,General Medicine,Central,Low Frequency
+D01313,Gastroenterology,Central,High Value
+D01314,General Medicine,West,Low Frequency
+D01315,Pulmonology,Southeast,Low Frequency
+D01316,Dermatology,South,High Value
+D01317,Pulmonology,Southwest,Regular
+D01318,Dermatology,North,High Value
+D01319,Cardiology,North,Growth
+D01320,Cardiology,Northeast,Regular
+D01321,Diabetology,East,Regular
+D01322,Diabetology,Northeast,Low Frequency
+D01323,General Medicine,Southwest,Regular
+D01324,Diabetology,Northeast,Regular
+D01325,Oncology,North,Regular
+D01326,Neurology,West,Low Frequency
+D01327,Diabetology,Central,High Value
+D01328,General Medicine,Southeast,Low Frequency
+D01329,Dermatology,Central,High Value
+D01330,Pulmonology,Central,Regular
+D01331,Gastroenterology,South,Growth
+D01332,Dermatology,North,High Value
+D01333,Diabetology,Southwest,Growth
+D01334,Oncology,Southwest,Regular
+D01335,Oncology,Southeast,Growth
+D01336,Dermatology,West,High Value
+D01337,Diabetology,South,Regular
+D01338,Dermatology,East,Low Frequency
+D01339,Cardiology,West,Growth
+D01340,Cardiology,Northeast,Growth
+D01341,Diabetology,West,Growth
+D01342,Pulmonology,West,High Value
+D01343,General Medicine,Central,Regular
+D01344,Dermatology,West,Regular
+D01345,General Medicine,Southwest,Regular
+D01346,Pulmonology,Northeast,Growth
+D01347,Neurology,Northeast,Regular
+D01348,Neurology,North,Regular
+D01349,Oncology,West,Regular
+D01350,Cardiology,Central,Regular
+D01351,General Medicine,West,Regular
+D01352,Gastroenterology,East,Regular
+D01353,Pulmonology,East,Growth
+D01354,Dermatology,Central,Low Frequency
+D01355,Pulmonology,North,Regular
+D01356,General Medicine,North,Regular
+D01357,Oncology,Northeast,Growth
+D01358,Pulmonology,Northeast,Regular
+D01359,Diabetology,South,Regular
+D01360,Gastroenterology,Central,High Value
+D01361,Oncology,West,High Value
+D01362,Diabetology,Southeast,Regular
+D01363,Gastroenterology,Central,Regular
+D01364,Gastroenterology,South,Regular
+D01365,Dermatology,Northeast,Growth
+D01366,Cardiology,Central,Regular
+D01367,Dermatology,Central,High Value
+D01368,Oncology,Northeast,Growth
+D01369,Diabetology,Southwest,High Value
+D01370,Diabetology,South,High Value
+D01371,Oncology,Northeast,Growth
+D01372,Diabetology,North,Growth
+D01373,General Medicine,West,High Value
+D01374,Pulmonology,Northeast,Growth
+D01375,Diabetology,South,Regular
+D01376,General Medicine,East,Regular
+D01377,Pulmonology,North,Growth
+D01378,Pulmonology,East,Regular
+D01379,Neurology,Southeast,High Value
+D01380,Gastroenterology,Northeast,Regular
+D01381,Diabetology,North,High Value
+D01382,Neurology,West,High Value
+D01383,Oncology,Northeast,Regular
+D01384,Diabetology,West,Regular
+D01385,Dermatology,Southwest,Low Frequency
+D01386,Neurology,Central,Regular
+D01387,General Medicine,East,Low Frequency
+D01388,Cardiology,North,High Value
+D01389,Oncology,West,High Value
+D01390,Pulmonology,South,High Value
+D01391,Diabetology,West,High Value
+D01392,Cardiology,South,Regular
+D01393,Diabetology,Northeast,Regular
+D01394,Pulmonology,North,High Value
+D01395,Neurology,West,Low Frequency
+D01396,General Medicine,Southeast,Regular
+D01397,Pulmonology,West,Growth
+D01398,Diabetology,Southwest,High Value
+D01399,Gastroenterology,Southeast,High Value
+D01400,Dermatology,North,High Value
+D01401,Diabetology,Southwest,High Value
+D01402,Diabetology,West,Regular
+D01403,Cardiology,South,Growth
+D01404,Dermatology,West,Growth
+D01405,Dermatology,East,Low Frequency
+D01406,Pulmonology,Northeast,Regular
+D01407,General Medicine,Central,Low Frequency
+D01408,General Medicine,South,High Value
+D01409,Gastroenterology,East,Growth
+D01410,General Medicine,Southeast,Regular
+D01411,Diabetology,Northeast,High Value
+D01412,Cardiology,North,High Value
+D01413,Diabetology,South,Regular
+D01414,Cardiology,Central,Regular
+D01415,Pulmonology,Northeast,Growth
+D01416,Oncology,Southeast,Regular
+D01417,Cardiology,Southwest,Growth
+D01418,Cardiology,Southwest,High Value
+D01419,Pulmonology,Central,Growth
+D01420,Oncology,North,High Value
+D01421,Neurology,North,High Value
+D01422,Pulmonology,Southeast,Low Frequency
+D01423,Cardiology,South,Regular
+D01424,Cardiology,Southeast,Regular
+D01425,Oncology,West,Growth
+D01426,Oncology,North,Growth
+D01427,Cardiology,Northeast,Growth
+D01428,Oncology,West,High Value
+D01429,Gastroenterology,Southwest,High Value
+D01430,General Medicine,Southwest,Regular
+D01431,Pulmonology,East,Regular
+D01432,Pulmonology,Central,Regular
+D01433,Pulmonology,West,Regular
+D01434,Dermatology,Central,Low Frequency
+D01435,Cardiology,Southeast,High Value
+D01436,Cardiology,West,Growth
+D01437,Neurology,Southeast,Growth
+D01438,Dermatology,East,Regular
+D01439,Diabetology,North,Low Frequency
+D01440,Dermatology,Southwest,Growth
+D01441,Oncology,East,Low Frequency
+D01442,Cardiology,Southwest,Regular
+D01443,Dermatology,North,Growth
+D01444,Pulmonology,Southeast,Growth
+D01445,General Medicine,North,Growth
+D01446,Diabetology,Southwest,Low Frequency
+D01447,Dermatology,Southwest,High Value
+D01448,General Medicine,Central,Regular
+D01449,Oncology,Northeast,Growth
+D01450,Dermatology,East,Regular
+D01451,Pulmonology,West,Growth
+D01452,Gastroenterology,Southwest,Regular
+D01453,General Medicine,East,Regular
+D01454,Gastroenterology,Central,Regular
+D01455,Cardiology,North,Low Frequency
+D01456,Oncology,Central,High Value
+D01457,Dermatology,South,Regular
+D01458,Dermatology,South,High Value
+D01459,Diabetology,West,Growth
+D01460,Dermatology,Central,Regular
+D01461,Neurology,Southeast,Growth
+D01462,Dermatology,West,Regular
+D01463,Cardiology,Southeast,Low Frequency
+D01464,Dermatology,West,High Value
+D01465,Oncology,South,Regular
+D01466,Cardiology,West,Growth
+D01467,Oncology,South,High Value
+D01468,Neurology,Southwest,High Value
+D01469,General Medicine,North,Low Frequency
+D01470,General Medicine,Southeast,Low Frequency
+D01471,Gastroenterology,Central,Low Frequency
+D01472,Dermatology,Southwest,Low Frequency
+D01473,General Medicine,Southwest,Growth
+D01474,Neurology,West,Growth
+D01475,Neurology,South,Regular
+D01476,Dermatology,East,Regular
+D01477,General Medicine,Southeast,Growth
+D01478,General Medicine,Southwest,Growth
+D01479,General Medicine,West,Regular
+D01480,Pulmonology,Northeast,Regular
+D01481,General Medicine,North,High Value
+D01482,Cardiology,North,Regular
+D01483,Gastroenterology,East,Regular
+D01484,Cardiology,South,Regular
+D01485,Neurology,West,Growth
+D01486,Neurology,Southeast,Regular
+D01487,Neurology,South,High Value
+D01488,Dermatology,North,Growth
+D01489,Neurology,South,Regular
+D01490,Pulmonology,North,Regular
+D01491,Diabetology,South,Growth
+D01492,Neurology,East,Regular
+D01493,Diabetology,Central,Regular
+D01494,Cardiology,East,Regular
+D01495,Gastroenterology,East,Regular
+D01496,Dermatology,Central,Regular
+D01497,Gastroenterology,Central,Regular
+D01498,Pulmonology,Southwest,High Value
+D01499,Neurology,Southwest,Growth
+D01500,General Medicine,West,Growth
+D01501,Pulmonology,Southeast,Regular
+D01502,Pulmonology,Southeast,Regular
+D01503,Cardiology,West,Growth
+D01504,Neurology,East,High Value
+D01505,Neurology,East,Regular
+D01506,Neurology,North,Growth
+D01507,Gastroenterology,North,Regular
+D01508,Pulmonology,Southeast,High Value
+D01509,Gastroenterology,West,Regular
+D01510,General Medicine,Northeast,Low Frequency
+D01511,General Medicine,Southwest,High Value
+D01512,Dermatology,Northeast,Regular
+D01513,Oncology,West,High Value
+D01514,Cardiology,North,Regular
+D01515,Diabetology,Southeast,Regular
+D01516,Cardiology,Southeast,Growth
+D01517,Dermatology,North,Regular
+D01518,General Medicine,Northeast,Low Frequency
+D01519,Diabetology,South,High Value
+D01520,Oncology,South,High Value
+D01521,Cardiology,North,Low Frequency
+D01522,Oncology,South,Regular
+D01523,Neurology,Central,Low Frequency
+D01524,Cardiology,West,Regular
+D01525,Pulmonology,West,Regular
+D01526,Diabetology,North,Growth
+D01527,Diabetology,East,Regular
+D01528,Neurology,Southwest,Low Frequency
+D01529,General Medicine,Northeast,Regular
+D01530,Pulmonology,North,High Value
+D01531,Neurology,South,Growth
+D01532,Gastroenterology,Northeast,High Value
+D01533,Dermatology,East,Growth
+D01534,Diabetology,South,Growth
+D01535,Neurology,Southeast,Regular
+D01536,Cardiology,Southwest,Regular
+D01537,Diabetology,Central,Growth
+D01538,Dermatology,South,Regular
+D01539,Diabetology,Central,High Value
+D01540,Pulmonology,Northeast,High Value
+D01541,Dermatology,Central,High Value
+D01542,Cardiology,Northeast,Regular
+D01543,Gastroenterology,Northeast,Growth
+D01544,Diabetology,Northeast,Growth
+D01545,Oncology,Northeast,Growth
+D01546,Pulmonology,Northeast,Regular
+D01547,General Medicine,South,High Value
+D01548,Gastroenterology,Northeast,Regular
+D01549,Cardiology,South,Regular
+D01550,Gastroenterology,Northeast,Regular
+D01551,Oncology,Central,Low Frequency
+D01552,Gastroenterology,Southeast,High Value
+D01553,General Medicine,Northeast,High Value
+D01554,General Medicine,East,Low Frequency
+D01555,Diabetology,Northeast,Regular
+D01556,Diabetology,Northeast,Regular
+D01557,Gastroenterology,Central,Regular
+D01558,Neurology,Southwest,Regular
+D01559,General Medicine,West,Low Frequency
+D01560,Oncology,Central,Low Frequency
+D01561,Neurology,East,Regular
+D01562,Diabetology,West,Growth
+D01563,General Medicine,North,Low Frequency
+D01564,Diabetology,North,High Value
+D01565,General Medicine,Southwest,Growth
+D01566,Pulmonology,East,Low Frequency
+D01567,Dermatology,Central,Growth
+D01568,Cardiology,South,Growth
+D01569,Gastroenterology,East,High Value
+D01570,Pulmonology,Southeast,Low Frequency
+D01571,Gastroenterology,West,Regular
+D01572,Diabetology,West,Regular
+D01573,Dermatology,Northeast,Growth
+D01574,General Medicine,North,Regular
+D01575,Diabetology,Southwest,Regular
+D01576,Cardiology,West,Growth
+D01577,Cardiology,East,Growth
+D01578,Dermatology,West,Growth
+D01579,Gastroenterology,Southwest,Low Frequency
+D01580,Gastroenterology,Southwest,Regular
+D01581,Diabetology,Southwest,Low Frequency
+D01582,Neurology,East,Growth
+D01583,Gastroenterology,South,Regular
+D01584,Pulmonology,Northeast,Regular
+D01585,Oncology,North,Regular
+D01586,Cardiology,West,Low Frequency
+D01587,Dermatology,East,Growth
+D01588,Neurology,Central,High Value
+D01589,Pulmonology,North,Regular
+D01590,Dermatology,South,Regular
+D01591,Dermatology,East,Regular
+D01592,Oncology,Southeast,Growth
+D01593,Cardiology,Southeast,Regular
+D01594,Cardiology,Northeast,Growth
+D01595,Dermatology,Northeast,Growth
+D01596,Gastroenterology,South,Regular
+D01597,Diabetology,South,Regular
+D01598,Cardiology,Northeast,Growth
+D01599,Cardiology,West,Growth
+D01600,General Medicine,West,Growth
+D01601,Diabetology,East,High Value
+D01602,Neurology,Central,Regular
+D01603,Diabetology,East,Low Frequency
+D01604,Neurology,Central,Growth
+D01605,Cardiology,South,Regular
+D01606,Pulmonology,North,Low Frequency
+D01607,Cardiology,East,Regular
+D01608,General Medicine,East,High Value
+D01609,Diabetology,Central,Low Frequency
+D01610,Gastroenterology,Southwest,Growth
+D01611,General Medicine,South,Growth
+D01612,Dermatology,South,High Value
+D01613,Pulmonology,Southeast,Regular
+D01614,Neurology,Southwest,High Value
+D01615,Neurology,Central,Growth
+D01616,Dermatology,South,Growth
+D01617,Oncology,Southwest,Regular
+D01618,Dermatology,Northeast,Low Frequency
+D01619,Gastroenterology,Southwest,Growth
+D01620,Dermatology,West,Low Frequency
+D01621,Pulmonology,Southeast,Low Frequency
+D01622,Cardiology,Northeast,Regular
+D01623,Gastroenterology,North,High Value
+D01624,Oncology,East,Regular
+D01625,Diabetology,Southeast,Low Frequency
+D01626,Dermatology,North,Regular
+D01627,Diabetology,East,Growth
+D01628,Pulmonology,West,Regular
+D01629,Cardiology,Southwest,Regular
+D01630,Pulmonology,South,Regular
+D01631,General Medicine,Northeast,High Value
+D01632,Neurology,Central,Growth
+D01633,Dermatology,Northeast,Regular
+D01634,General Medicine,West,Low Frequency
+D01635,Oncology,North,High Value
+D01636,Diabetology,Central,Low Frequency
+D01637,Neurology,South,Growth
+D01638,Diabetology,West,Regular
+D01639,Oncology,Central,Regular
+D01640,Oncology,West,Regular
+D01641,Pulmonology,Southwest,Low Frequency
+D01642,General Medicine,West,Growth
+D01643,Pulmonology,South,Low Frequency
+D01644,Gastroenterology,Southeast,High Value
+D01645,Cardiology,East,Regular
+D01646,General Medicine,Central,Regular
+D01647,Cardiology,Southwest,Regular
+D01648,General Medicine,South,Growth
+D01649,General Medicine,West,Low Frequency
+D01650,Dermatology,Southwest,High Value
+D01651,Cardiology,South,High Value
+D01652,Neurology,Southeast,Regular
+D01653,Diabetology,Southwest,Regular
+D01654,Neurology,Southwest,Regular
+D01655,Cardiology,East,Growth
+D01656,Oncology,Northeast,High Value
+D01657,Gastroenterology,Central,Regular
+D01658,Neurology,East,Regular
+D01659,Neurology,North,High Value
+D01660,Pulmonology,Central,Regular
+D01661,Gastroenterology,East,Regular
+D01662,Pulmonology,West,Regular
+D01663,Oncology,Central,Regular
+D01664,Pulmonology,Central,Regular
+D01665,Oncology,South,Regular
+D01666,General Medicine,West,Regular
+D01667,Diabetology,North,High Value
+D01668,Oncology,Northeast,Regular
+D01669,Cardiology,Southwest,Regular
+D01670,General Medicine,Southeast,Regular
+D01671,Neurology,East,Growth
+D01672,General Medicine,South,Low Frequency
+D01673,General Medicine,East,Regular
+D01674,General Medicine,North,High Value
+D01675,General Medicine,Southwest,Growth
+D01676,Neurology,North,Low Frequency
+D01677,Cardiology,Central,High Value
+D01678,Neurology,Southeast,Low Frequency
+D01679,Diabetology,North,Regular
+D01680,Dermatology,East,Regular
+D01681,Neurology,West,Growth
+D01682,Oncology,West,Growth
+D01683,Dermatology,Central,Low Frequency
+D01684,General Medicine,Northeast,Growth
+D01685,Cardiology,East,Regular
+D01686,General Medicine,East,Growth
+D01687,Oncology,North,High Value
+D01688,Pulmonology,Southeast,High Value
+D01689,Gastroenterology,East,Regular
+D01690,General Medicine,South,Low Frequency
+D01691,Diabetology,Northeast,Growth
+D01692,Pulmonology,North,Growth
+D01693,Neurology,South,Growth
+D01694,Cardiology,Central,Regular
+D01695,Neurology,West,Growth
+D01696,Cardiology,Central,Low Frequency
+D01697,Cardiology,West,Regular
+D01698,Cardiology,Central,Regular
+D01699,Oncology,East,High Value
+D01700,Gastroenterology,South,Low Frequency
+D01701,Oncology,West,Growth
+D01702,Pulmonology,North,High Value
+D01703,Neurology,South,Regular
+D01704,Pulmonology,North,Regular
+D01705,Pulmonology,South,Growth
+D01706,Cardiology,South,Growth
+D01707,Dermatology,Central,Regular
+D01708,Diabetology,West,High Value
+D01709,Gastroenterology,West,Regular
+D01710,Dermatology,Southeast,Regular
+D01711,Diabetology,South,Growth
+D01712,Cardiology,East,Regular
+D01713,General Medicine,East,Growth
+D01714,Pulmonology,North,Regular
+D01715,Cardiology,North,Regular
+D01716,Oncology,Central,Growth
+D01717,Cardiology,South,Regular
+D01718,Dermatology,North,Low Frequency
+D01719,Oncology,North,Growth
+D01720,Diabetology,Northeast,Low Frequency
+D01721,Cardiology,South,Growth
+D01722,Cardiology,Southwest,High Value
+D01723,Neurology,Central,Growth
+D01724,Cardiology,North,Growth
+D01725,Dermatology,Central,Growth
+D01726,Cardiology,West,High Value
+D01727,Pulmonology,Central,Low Frequency
+D01728,Oncology,Southwest,Regular
+D01729,General Medicine,East,Regular
+D01730,Gastroenterology,Southwest,High Value
+D01731,Neurology,East,High Value
+D01732,Gastroenterology,Central,High Value
+D01733,Pulmonology,East,Regular
+D01734,Pulmonology,West,Low Frequency
+D01735,Cardiology,South,Growth
+D01736,General Medicine,East,High Value
+D01737,Pulmonology,East,Regular
+D01738,Diabetology,Central,Growth
+D01739,Neurology,West,Growth
+D01740,Neurology,Southeast,Regular
+D01741,General Medicine,Southeast,Regular
+D01742,Dermatology,Southeast,High Value
+D01743,General Medicine,Southeast,High Value
+D01744,Cardiology,South,Low Frequency
+D01745,Neurology,Southwest,Growth
+D01746,Pulmonology,Central,High Value
+D01747,Cardiology,Central,High Value
+D01748,Diabetology,Northeast,High Value
+D01749,General Medicine,West,Growth
+D01750,Cardiology,Southeast,Regular
+D01751,Pulmonology,South,Growth
+D01752,Diabetology,West,Growth
+D01753,Cardiology,Southeast,Regular
+D01754,Diabetology,South,Regular
+D01755,Oncology,West,Low Frequency
+D01756,General Medicine,Central,Low Frequency
+D01757,Oncology,Central,High Value
+D01758,Pulmonology,Southwest,Regular
+D01759,Cardiology,North,Regular
+D01760,Gastroenterology,Southwest,Low Frequency
+D01761,Pulmonology,East,Regular
+D01762,General Medicine,Southwest,Low Frequency
+D01763,Cardiology,Southeast,Regular
+D01764,Pulmonology,Northeast,Growth
+D01765,Diabetology,West,Regular
+D01766,Neurology,Northeast,Low Frequency
+D01767,Dermatology,North,Low Frequency
+D01768,Pulmonology,East,High Value
+D01769,Neurology,West,Regular
+D01770,Neurology,South,Growth
+D01771,Pulmonology,Southeast,High Value
+D01772,General Medicine,East,Growth
+D01773,General Medicine,Central,Growth
+D01774,Oncology,North,Regular
+D01775,General Medicine,East,Growth
+D01776,Neurology,Southeast,Regular
+D01777,Dermatology,Southwest,High Value
+D01778,Pulmonology,East,Growth
+D01779,Diabetology,Southwest,Growth
+D01780,General Medicine,Southeast,Growth
+D01781,Cardiology,Central,High Value
+D01782,Oncology,West,High Value
+D01783,Pulmonology,South,Regular
+D01784,Gastroenterology,Central,Growth
+D01785,Dermatology,Southwest,Growth
+D01786,General Medicine,Southwest,Growth
+D01787,Gastroenterology,South,Low Frequency
+D01788,Gastroenterology,West,Low Frequency
+D01789,Cardiology,East,Regular
+D01790,Pulmonology,South,Growth
+D01791,Diabetology,North,High Value
+D01792,Dermatology,North,Low Frequency
+D01793,Pulmonology,Southeast,High Value
+D01794,Dermatology,Central,Growth
+D01795,Cardiology,Southwest,Growth
+D01796,Cardiology,West,Growth
+D01797,Dermatology,Southeast,High Value
+D01798,Cardiology,Central,Regular
+D01799,Cardiology,Central,High Value
+D01800,Cardiology,Southeast,Regular
+D01801,Oncology,Northeast,High Value
+D01802,Dermatology,Central,High Value
+D01803,Neurology,Northeast,Low Frequency
+D01804,Diabetology,North,High Value
+D01805,Neurology,North,Regular
+D01806,General Medicine,Central,Regular
+D01807,Dermatology,North,High Value
+D01808,Diabetology,West,Low Frequency
+D01809,Diabetology,Northeast,Growth
+D01810,Cardiology,Northeast,Low Frequency
+D01811,Dermatology,Central,High Value
+D01812,General Medicine,North,Low Frequency
+D01813,Diabetology,South,High Value
+D01814,Cardiology,Southwest,Regular
+D01815,Cardiology,Southeast,Regular
+D01816,Oncology,Southeast,Low Frequency
+D01817,Diabetology,Northeast,Low Frequency
+D01818,General Medicine,Central,Regular
+D01819,Gastroenterology,Central,Low Frequency
+D01820,Neurology,West,High Value
+D01821,Diabetology,East,Growth
+D01822,Cardiology,Southwest,Growth
+D01823,Gastroenterology,East,Growth
+D01824,General Medicine,Northeast,Growth
+D01825,Dermatology,Southeast,Regular
+D01826,Pulmonology,West,High Value
+D01827,Cardiology,West,Regular
+D01828,Oncology,West,High Value
+D01829,General Medicine,Northeast,Growth
+D01830,Diabetology,East,Regular
+D01831,Oncology,Southeast,Regular
+D01832,Gastroenterology,West,Regular
+D01833,Gastroenterology,Southeast,Regular
+D01834,General Medicine,North,High Value
+D01835,General Medicine,Central,Regular
+D01836,Dermatology,Central,High Value
+D01837,Cardiology,Southeast,Growth
+D01838,Neurology,South,Growth
+D01839,Oncology,South,High Value
+D01840,Diabetology,Northeast,Growth
+D01841,Neurology,Northeast,Low Frequency
+D01842,Pulmonology,Central,Low Frequency
+D01843,Pulmonology,North,Growth
+D01844,Gastroenterology,Southwest,High Value
+D01845,Oncology,East,High Value
+D01846,Diabetology,East,Growth
+D01847,Cardiology,Northeast,Low Frequency
+D01848,Diabetology,North,High Value
+D01849,General Medicine,Northeast,Regular
+D01850,Dermatology,Southwest,High Value
+D01851,Diabetology,East,Low Frequency
+D01852,General Medicine,Southeast,Growth
+D01853,General Medicine,Northeast,Regular
+D01854,General Medicine,West,Growth
+D01855,Oncology,Southeast,Regular
+D01856,Diabetology,Southwest,High Value
+D01857,General Medicine,Southwest,High Value
+D01858,Pulmonology,Northeast,Low Frequency
+D01859,General Medicine,Central,Low Frequency
+D01860,Dermatology,Northeast,Low Frequency
+D01861,General Medicine,Central,Regular
+D01862,Dermatology,Southwest,Regular
+D01863,Diabetology,North,High Value
+D01864,Gastroenterology,Southwest,Growth
+D01865,Oncology,East,Growth
+D01866,Oncology,Southeast,Regular
+D01867,Cardiology,Southeast,Growth
+D01868,Diabetology,South,High Value
+D01869,Cardiology,South,Regular
+D01870,Dermatology,Southwest,Regular
+D01871,General Medicine,East,Growth
+D01872,Diabetology,South,High Value
+D01873,Pulmonology,Southeast,High Value
+D01874,General Medicine,Northeast,Growth
+D01875,Dermatology,North,Growth
+D01876,Gastroenterology,North,Regular
+D01877,Gastroenterology,East,Regular
+D01878,Pulmonology,Southwest,Regular
+D01879,Diabetology,South,Growth
+D01880,Gastroenterology,Northeast,Regular
+D01881,Dermatology,North,Growth
+D01882,General Medicine,North,Regular
+D01883,Gastroenterology,West,Regular
+D01884,General Medicine,Southwest,High Value
+D01885,Diabetology,West,High Value
+D01886,Pulmonology,Southeast,Low Frequency
+D01887,Cardiology,North,Growth
+D01888,Diabetology,East,Regular
+D01889,Dermatology,Central,High Value
+D01890,Oncology,Central,Regular
+D01891,Cardiology,Northeast,Growth
+D01892,Neurology,North,High Value
+D01893,General Medicine,North,Regular
+D01894,Diabetology,Southeast,Growth
+D01895,Gastroenterology,North,Growth
+D01896,Dermatology,East,High Value
+D01897,Gastroenterology,West,High Value
+D01898,Diabetology,North,Growth
+D01899,Neurology,North,High Value
+D01900,General Medicine,Southeast,Low Frequency
+D01901,Gastroenterology,Southwest,High Value
+D01902,Cardiology,South,Regular
+D01903,General Medicine,Southwest,High Value
+D01904,Cardiology,Southeast,Growth
+D01905,General Medicine,Southwest,Low Frequency
+D01906,Diabetology,Southeast,High Value
+D01907,Oncology,East,Low Frequency
+D01908,Neurology,Northeast,Growth
+D01909,Neurology,North,Regular
+D01910,Cardiology,Southeast,Regular
+D01911,Neurology,Southeast,Low Frequency
+D01912,General Medicine,South,Regular
+D01913,Oncology,Southeast,Regular
+D01914,Neurology,Central,High Value
+D01915,Pulmonology,Northeast,High Value
+D01916,Dermatology,North,Low Frequency
+D01917,General Medicine,North,Growth
+D01918,Gastroenterology,South,Growth
+D01919,Neurology,East,Regular
+D01920,Neurology,North,Growth
+D01921,Dermatology,Central,Low Frequency
+D01922,Cardiology,North,Regular
+D01923,Gastroenterology,Central,Regular
+D01924,Neurology,Northeast,Low Frequency
+D01925,General Medicine,Northeast,High Value
+D01926,Cardiology,West,Growth
+D01927,Gastroenterology,West,Regular
+D01928,Pulmonology,Central,Growth
+D01929,Dermatology,East,Regular
+D01930,Cardiology,North,Low Frequency
+D01931,Gastroenterology,Southeast,Growth
+D01932,Gastroenterology,North,Growth
+D01933,Gastroenterology,West,Low Frequency
+D01934,Gastroenterology,Southwest,Growth
+D01935,Dermatology,Southeast,Regular
+D01936,General Medicine,Central,Growth
+D01937,Diabetology,Southeast,Low Frequency
+D01938,General Medicine,Southwest,Regular
+D01939,Pulmonology,North,Regular
+D01940,Cardiology,North,Regular
+D01941,Cardiology,East,Growth
+D01942,Neurology,South,Growth
+D01943,General Medicine,Southeast,Regular
+D01944,Dermatology,West,Growth
+D01945,General Medicine,Southwest,Regular
+D01946,Pulmonology,Southwest,Low Frequency
+D01947,Pulmonology,Southwest,Regular
+D01948,Cardiology,West,Regular
+D01949,Neurology,South,Regular
+D01950,Pulmonology,North,Regular
+D01951,Cardiology,East,Growth
+D01952,Diabetology,East,High Value
+D01953,Gastroenterology,West,Growth
+D01954,Dermatology,East,Regular
+D01955,Oncology,Southwest,Regular
+D01956,Oncology,Northeast,Regular
+D01957,Dermatology,South,Growth
+D01958,Pulmonology,North,Regular
+D01959,Gastroenterology,Northeast,High Value
+D01960,General Medicine,South,Regular
+D01961,Cardiology,Central,Regular
+D01962,Neurology,Southeast,Growth
+D01963,General Medicine,West,Growth
+D01964,Neurology,Southwest,Regular
+D01965,Gastroenterology,East,Regular
+D01966,Gastroenterology,Central,Growth
+D01967,Diabetology,East,Low Frequency
+D01968,Neurology,Northeast,Regular
+D01969,Neurology,North,Low Frequency
+D01970,Cardiology,North,Growth
+D01971,Cardiology,North,Regular
+D01972,General Medicine,Southwest,Low Frequency
+D01973,Diabetology,East,Regular
+D01974,Pulmonology,Central,Regular
+D01975,Diabetology,North,Growth
+D01976,Oncology,Central,Growth
+D01977,Diabetology,East,High Value
+D01978,Pulmonology,Southwest,Growth
+D01979,General Medicine,Northeast,High Value
+D01980,General Medicine,Southwest,High Value
+D01981,Diabetology,Central,Low Frequency
+D01982,General Medicine,Southwest,Growth
+D01983,Pulmonology,Southwest,Regular
+D01984,Pulmonology,Northeast,Regular
+D01985,Cardiology,East,Regular
+D01986,Cardiology,East,High Value
+D01987,Dermatology,West,Regular
+D01988,Pulmonology,Southwest,Regular
+D01989,Pulmonology,East,Regular
+D01990,Dermatology,East,Regular
+D01991,General Medicine,South,Low Frequency
+D01992,Diabetology,North,Regular
+D01993,Gastroenterology,West,Growth
+D01994,Cardiology,Southeast,Regular
+D01995,General Medicine,West,High Value
+D01996,Dermatology,West,Low Frequency
+D01997,Oncology,Southeast,High Value
+D01998,Cardiology,South,Growth
+D01999,Cardiology,Southwest,Regular
+D02000,Diabetology,Northeast,Regular
